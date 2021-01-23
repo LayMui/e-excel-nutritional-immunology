@@ -1,5 +1,5 @@
 <template>
   <div class="text-center">
-    <img  src="../../assets/image/NI_15.png"/>
+    <img contain height=400px width=600px src="../../assets/image/NI_15.png"/>
   </div>
 </template>

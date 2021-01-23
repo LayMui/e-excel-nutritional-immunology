@@ -50,18 +50,109 @@ const pages = [
   {
     name: 'Page 5',
     meta: {
-      title: '-'
+      title: 'Healthy and unhealthy joint'
     },
     component: NI_5
   },
   {
     name: 'Page 6',
     meta: {
-      title: '-'
+      title: 'Nutritional Immunology'
     },
     component: NI_6
   },
-  
+  {
+    name: 'Page 7',
+    meta: {
+      title: 'The Best Doctor is our Immune System'
+    },
+    component: NI_7
+  },
+  {
+    name: 'Page 8',
+    meta: {
+      title: 'Healthy immune system'
+    },
+    component: NI_8
+  },
+  {
+    name: 'Page 9',
+    meta: {
+      title: '3 Functions of Immune System'
+    },
+    component: NI_9
+  },
+  {
+    name: 'Page 10',
+    meta: {
+      title: '3 Essentials Nutrients needed by the immune system'
+    },
+    component: NI_10
+  },
+  {
+    name: 'Page 11',
+    meta: {
+      title: 'Phytochemical'
+    },
+    component: NI_11
+  },
+  {
+    name: 'Page 12',
+    meta: {
+      title: 'Antioxidants'
+    },
+    component: NI_12
+  },
+  {
+    name: 'Page 13',
+    meta: {
+      title: 'Polysacharides'
+    },
+    component: NI_13
+  },
+  {
+    name: 'Page 14',
+    meta: {
+      title: 'E-Excel health management package'
+    },
+    component: NI_14
+  },
+  {
+    name: 'Page 15',
+    meta: {
+      title: 'E-Excel International'
+    },
+    component: NI_15
+  },
+  {
+    name: 'Page 16',
+    meta: {
+      title: 'E-Excel Production and Research'
+    },
+    component: NI_16
+  },
+  {
+    name: 'Page 17',
+    meta: {
+      title: 'Dr Chen\'s Profile'
+    },
+    component: NI_17
+  },
+  {
+    name: 'Page 18',
+    meta: {
+      title: 'Prevention is better than cure'
+    },
+    component: NI_18
+  },
+  {
+    name: 'Page 19',
+    meta: {
+      title: '4 Keys to Good Health'
+    },
+    component: NI_19
+  },
+
 ]
 
 pages.forEach((page, index) => page.path = `${index + 1}`)
