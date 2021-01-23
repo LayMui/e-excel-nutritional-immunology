@@ -8,7 +8,7 @@ import { objectToArray } from './utils';
 
 Vue.use(Vuex)
 
-axios.defaults.baseURL = 'https://vue-brown-bag.firebaseio.com/'
+axios.defaults.baseURL = 'https://e-excel-nutritional-immunology.vercel.app/'
 
 export default new Vuex.Store({
   state: {
