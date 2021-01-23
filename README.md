@@ -1,4 +1,4 @@
-# Soygreen
+# Nutritional Immunology
 
 ## Project setup
 ```
